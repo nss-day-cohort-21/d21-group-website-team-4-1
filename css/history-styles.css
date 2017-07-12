@@ -24,5 +24,7 @@ li {
 a {
 	text-decoration: none;
 	color:red;
-
+}
+.span {
+	color:blue;
 }
