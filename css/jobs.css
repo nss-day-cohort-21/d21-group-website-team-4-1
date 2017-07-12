@@ -2,6 +2,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-top: 2em;
 }
 
 h1 {
@@ -110,7 +111,7 @@ h1 {
 }
 
 .listing-header {
-  background-color: #0159A0;;
+  background-color: #2478bb;;
   margin: 0;
   padding: 1em 0;
 }
