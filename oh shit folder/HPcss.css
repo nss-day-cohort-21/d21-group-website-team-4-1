@@ -1,0 +1,58 @@
+.pants {
+	display: flex;
+	width: 90%;
+	margin: 0, auto;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+  	perspective: 700;
+
+}
+
+.box{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	border-radius: 10px;
+	height: 150px;
+	width: 40%;
+	border: 3px solid #333;
+	margin-bottom: 60px;
+	flex-direction: column;
+  	transition: all 0.8s ease;
+  	transform-style: preserve-3d;
+  
+
+}
+
+.box:hover {
+  transform: rotateY(180deg);
+}
+
+.inner-box {
+  border-radius: 7px;
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
+  position:absolute;
+  transition: opacity 0.8s ease;
+}
+
+.box .boxback {
+   opacity:0;
+}
+
+.box:hover .boxback {
+   opacity:1;
+}
+
+.box .boxfront {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+   	opacity:1;
+}
+
+.box:hover .boxfront {
+   opacity:0;
+}
