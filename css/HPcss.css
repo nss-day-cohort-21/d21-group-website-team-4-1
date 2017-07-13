@@ -16,8 +16,8 @@
 .box{
 	color: #585858;
 	font-family: "Open Sans";
-	justify-content: center;
-	align-items: center;
+/*	justify-content: center;
+	align-items: center;*/
 	display: flex;
 	border-radius: 12px;
 	height: 230px;
@@ -86,3 +86,4 @@ p {
 p.index-smaller{
 	font-size: 1em;
 }
+
