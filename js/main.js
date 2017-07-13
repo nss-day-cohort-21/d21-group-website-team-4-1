@@ -15,14 +15,49 @@ productCard.push({
 	img: "../images/aussie.jpg"
 });
 
+productCard.push({
+	title: "Dog Sledding Across the Prince Edward Islands", 
+	copy: "Experience winter like never before. Enjoy this fun, 5-hour dog sledding package. Join our team in beautiful Northern Canada for this exciting and fulfilling dogsled experience. Gear and meals provided.", 
+	price: "Starting at $300.00",
+	img: "../images/snowdogs.png"
+});
 
-// productCard.push({
-// 	title: "Searching for Peace Gives You Life", 
-// 	copy: "Lorem ipsum dolor sit amet, amet leo et tristique at pellentesque nibh, tempor wisi placerat elit phasellus et, nibh integer habitant magna, adipiscing in, dis libero diam quis elementum. Quam rem velit. Velit elit ad pellentesque, mi parturient, potenti pariatur hendrerit omnis quis, rhoncus augue cras morbi mi, at posuere mattis justo ut montes. Id sapien venenatis, blandit diam leo adipiscing lacinia sit tellus, nibh eget amet quisque rhoncus parturient euismod. Est fusce, in neque mi a odio et, vitae neque. Aliquam fusce. Non dolor, ligula ligula morbi mauris integer luctus, sodales fusce dui at wisi nec, a magna erat malesuada a, cursus non nunc duis porttitor ut arcu. Blandit diam quisque arcu erat, et venenatis posuere sit sed ut faucibus. Sed mi sit nam gravida, id neque sit erat commodo, ac felis non. Risus pellentesque molestie tempor erat ut eros, semper velit in proin nunc, dolor at eget est ac et, elit gravida. Sit malesuada amet.", 
-// 	date: "Author: Dr. T | Published: 7/11/17"
-// 	img: "../images/cuba.jpg"
-	
-// });
+productCard.push({
+	title: "Spelunking tour of Crystal Caverns California", 
+	copy: "Enjoy this spectacular spelunking tour in the heart of the rainforests of South America.  This 3-hour cave diving package comes with all gear and excitement provided. Come join us today!", 
+	price: "Starting at $100.00",
+	img: "../images/spelunking.png"
+});
+
+productCard.push({
+	title: "Skydiving", 
+	copy: "Come with us on a once of a lifetime adventure! Fly through the sky at exhilarating speeds and get your heart pumping! Skydiving is a great way to spend an afternoon. Come early, leave stoked.", 
+	price: "Starting at $500.00",
+	img: "../images/skydiving.png"
+});
+
+productCard.push({
+	title: "Backcountry Skiing", 
+	copy: "Do you like snow up to your knees? Steep inclines? Breath taking views that only you get to see? Backcountry skiing delivers all of this and more! Come skiing just 20 miles north of Vail, CO on picturesque mountains. Take a day, create memories for life!", 
+	price: "Starting at $1500.00",
+	img: "../images/backcountry.jpg"
+});
+
+productCard.push({
+	title: "Rock Climbing Expedition", 
+	copy: "Rock climbing is an incomparable challenge. It takes every muscle in your body to inch you upward. There's no time for distraction, no room for your mind to wander. It's you and a route up narrow fissures and narrower ledges. Chase your fear back into the shadows, as you balance on fingertips and toeholds all the way to the top.", 
+	price: "Starting at $1500.00",
+	img: "../images/rockclimb.png"
+});
+
+productCard.push({
+	title: "Zipline in the Sunshine State", 
+	copy: "Soar through the air and get a bird's eye view of the forest, beaches and river below.  Adventures Unlimited's Zip Adventures combines the adrenaline rush of a zip line canopy tour with the beauty of Northwest Florida's pristine longleaf pine forest and Coldwater Creek.", 
+	price: "Starting at $1500.00",
+	img: "../images/zipline.png"
+});
+
+
 //console.log("productCard", productCard);
 
 // //for each object in here...I want to list each item of each line/array
