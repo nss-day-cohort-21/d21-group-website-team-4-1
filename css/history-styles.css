@@ -1,6 +1,6 @@
 section.history-head {
 	margin:auto;
-	width:95%;
+	width:90%;
 	text-align:center;
 	background-color:#2478BB;
 	border:1px solid lightgrey;
@@ -60,6 +60,6 @@ h2 + p {
 }
 
 h2{
-	line-height: 2.8em;
+	line-height: 1.5em;
 
 }
