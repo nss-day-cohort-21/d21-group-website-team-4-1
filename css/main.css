@@ -93,6 +93,8 @@ li.none a:hover{
 }
 
 footer{
+	position: absolute;
+	width: 100%;
 	font-size: .75em;
 	padding: 10px;
 	text-align: center;
