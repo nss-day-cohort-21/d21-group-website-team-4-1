@@ -8,6 +8,7 @@
 	justify-content: space-around;
 	  flex-direction: row;
 	   flex-wrap: wrap;
+	   margin-bottom: 35px;
 }
 
 .card{
@@ -15,7 +16,8 @@
 	border: 2px solid #17ADD9;
 /*	height: 200px;*/
 	padding: 20px;
-	margin: 55px 15px;
+	margin-top: 55px;
+/*	margin: 35px 15px;*/
 	border-radius: 10px;
 	box-shadow: 10px 10px 5px rgb(185, 185, 185);
 /*	flex-grow: 2;*/

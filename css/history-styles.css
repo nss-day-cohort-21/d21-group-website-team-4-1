@@ -3,7 +3,7 @@ section.history-head {
 	width:90%;
 	text-align:center;
 	background-color:#2478BB;
-	border:1px solid black;
+	border:1px solid lightgrey;
 	margin-top:30px;
 	margin-bottom:0;
 }
@@ -20,14 +20,16 @@ nav {
 }
 /*body {
 	background-color:white;
-	width:100%;*/
+	width:100%;
 
-}
+}*/
+
 ul.white{
 	list-style: none;
 	padding-left:0;
 	text-align:center;
 	margin-bottom:0;
+
 
 }
 ul.white li {
@@ -47,6 +49,7 @@ ul.white li {
 }
 .span {
 	color:blue;
+
 }
 .white {
 	background-color: white;
@@ -54,5 +57,10 @@ ul.white li {
 }
 h2 + p {
 	text-align: justify;
-	padding:10px 200px 10px 200px;
+	padding:30px 100px;
+}
+
+h2{
+	line-height: 1.5em;
+
 }
