@@ -3,7 +3,7 @@
 	margin: 0 auto;
 }
 
-.products{
+#products{
 	display: flex;
 	justify-content: space-around;
 	  flex-direction: row;
