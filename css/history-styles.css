@@ -2,29 +2,46 @@
 	margin:auto;
 	width:90%;
 	text-align:center;
-	background-color:white;
+	background-color:#17ADD9;
 	border:1px solid black;
-	border-radius: 5%;
+	margin-top:30px;
+	margin-bottom:0;
 }
 
 body {
-	background-color:cyan;
+	background-color:white;
 	width:100%;
 	padding:auto;
 	margin:auto;
 }
-ul {
+ul{
 	list-style: none;
 	padding-left:0;
-	text-align:left;
+	text-align:center;
+	margin-bottom:0;
+
 }
-li {
+ul.white li {
 	margin: 1em 0 1em 0;
 }
-a {
+div a img {
 	text-decoration: none;
-	color:red;
+	display:block;
+	margin:auto;
+	padding:auto;
+	position: fixed;
+    bottom: 0;
+    right: 0;
 }
 .span {
 	color:blue;
+}
+.white {
+	background-color: white;
+}
+h2 + p {
+	text-align: justify;
+}
+.l6 {
+	margin-bottom:0;
 }
